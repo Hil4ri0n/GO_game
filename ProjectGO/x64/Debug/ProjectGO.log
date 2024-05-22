@@ -1,0 +1,5 @@
+﻿  conio2.cpp
+C:\coding\studia\1 semestr\Podstawy programowania PG\Project_GO\ProjectGO\ProjectGO\conio2.cpp(398,45): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  ProjectGO.cpp
+  Generating Code...
+  ProjectGO.vcxproj -> C:\coding\studia\1 semestr\Podstawy programowania PG\Project_GO\ProjectGO\x64\Debug\ProjectGO.exe
