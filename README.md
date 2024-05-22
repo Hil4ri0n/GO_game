@@ -2,6 +2,7 @@
 <div align="center">
     <img src="./game_go_screenshot.png" alt="Game Screenshot" style="width: 70%; margin-right: 5%;" />
 </div>
+
 ## Description
 The Go Game Simulator is a C++ console application that simulates the ancient board game Go. The game includes all essential features such as placing stones, capturing, scoring, and applying the ko rule. The graphical representation is done using ASCII characters in the console. The game supports saving and loading the state to and from a file, allowing players to resume their game at any time.
 
